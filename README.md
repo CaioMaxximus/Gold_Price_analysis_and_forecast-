@@ -6,3 +6,6 @@ This time series problem use Trend and multioutput techniques to forecast data
 
 # Open in the kaggle platform to visualize the outputs()
 - 
+
+
+STATUS : Still working...
