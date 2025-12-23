@@ -1,11 +1,10 @@
-# Gold Prices during day, ML problem
+# Gold Prices analisys and forecasr
 
-## visualizing Gold Prices index and forecasting max values usinf LinearRegression.
+## Visualizing Gold Prices index and forecasting max values using LinearRegression.
 
-This time series problem use Trend and multioutput techniques to forecast data
+This time series notebook use Trend analysis and multioutput techniques to forecast data
 
-# Open in the kaggle platform to visualize the outputs()
-- 
+- Open in the kaggle platform to visualize the outputs
 
 
 STATUS : Still working...
