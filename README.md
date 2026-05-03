@@ -1,4 +1,4 @@
-# [Gold Prices analisys and forecasr](https://www.kaggle.com/code/caiomaxximus/gold-prices-analysis-and-forecast)
+# [Gold Prices analisys and forecast](https://www.kaggle.com/code/caiomaxximus/gold-prices-analysis-and-forecast)
 
 ## Visualizing Gold Prices index and forecasting max values using LinearRegression.
 
